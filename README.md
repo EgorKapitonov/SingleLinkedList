@@ -1,2 +1,2 @@
-# cpp-single-linked-list
-Финальный проект: односвязный список
+# Single linked list 
+Проект односвязный список
